@@ -1,17 +1,1 @@
-
-
-Here are some possible answers, all using the 'open' command-line utility.
-
-The -a option means "open the file argument with the named application":
-
-open -a TextEdit file.txt
-
-The -e option means "open the file argument with the TextEdit application":
-
-open -e file.txt
-
-The -t option means "open the file with the default application for editing text files, as determined via LaunchServices". By default, this will be /Applications/TextEdit.app; however, it's possible for this setting to get overridden:
-
-open -t file.txt
-
-Finally, any file that's of the "text" type will get opened by the application bound to the text type if you just say open file.txt. You can use the "file" command to reveal what the operating system thinks the file type is: file file.txt. So, for example, if you renamed "file.txt" to just "textfile" then open textfile would still open it in the default text-file editing application, as long as file textfile still thought that "textfile" was actually a text file.
+TEST SUCCESSFUL
