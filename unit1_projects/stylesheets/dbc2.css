@@ -1,0 +1,92 @@
+body{
+font-family: 'Ubuntu', sans-serif;
+background:#1263C4;
+color:#fff;
+margin:0;
+}
+.caption {
+  background:none;
+  font-weight: bold;
+  line-height: 1.25em;
+}
+#pic {
+height:175px;
+background-image:url(http://scm-l3.technorati.com/12/12/13/73853/devbootcamp.png?t=20121213131231);
+background-size: 35%;
+background-repeat:repeat-x;
+background-color:#192b43;
+background-position:center;
+}
+header{
+text-align:center;
+background-color:#2C4BA8;
+width:100%;
+padding-top:15px;
+}
+#content{
+width:60%;
+float:right;
+display:inline;
+margin-right:10%;
+}
+#sidebar{
+margin:0 auto;
+display:inline;
+}
+a {
+color:#86BABF;
+text-decoration:none;
+}
+.like{
+line-height:200%;
+}
+nav{
+padding-top:2px;
+}
+nav a{
+color:#003399;
+padding-top:2px;
+}
+nav a:hover{
+color:#fff;
+}
+#content a:hover {
+color:#fff;
+text-decoration:underline;
+font-size:150%;
+}
+a:focus {
+color:#000033;
+text-decoration:underline;
+font-size:150%;
+}
+h1{
+font-weight:700;
+line-height:100%;
+}
+.subhead{
+font-style:italic;
+font-size:14px;
+}
+.ital{
+line-height:75px;
+margin-left:25%;
+font-weight:300;
+font-style:italic;
+}
+.stuff{
+font-style:italic;
+font-weight:300;
+}
+footer{
+bottom: 0;
+display:block;
+clear:both;
+text-align:center;
+background-color:#3088F1;
+padding:10px;
+}
+footer:hover{
+color:#3088F1;
+background-color:#fff;
+}
