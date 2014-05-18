@@ -27,19 +27,19 @@ vertical-align: baseline;
 
 /* Ariel's CSS Document */
 body{
-font-family:Verdana, Arial, Helvetica, sans-serif;
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
 }
 header{
-margin:0 auto;
+margin:10 auto;
 background-color:#CCCC33;
 border-bottom:10px solid #336600;
-height:150%;
 vertical-align:bottom;
-position:relative;
+position:static;
 }
 h1{
 display:inline;
-padding:0px 5px;
+padding:5px;
 color:#336600;
 font-family: 'Monofett', cursive;
 font-size:48px;
@@ -48,16 +48,17 @@ margin-left:15px;
 article{
 margin:10px 18px;
 width:81%;
-border:thick #000000;
+border:5px solid #336600;
 margin-bottom:50px;
 line-height:175%;
+padding:10px;
 }
 header p{
 vertical-align:bottom;
 font-family: 'Rammetto One', cursive;
 float:right;
 color:#336600;
-margin-right:10px;
+margin:10px;
 }
 ul{
 padding-left:15px;
