@@ -14,11 +14,11 @@ I only know that DOM is powerful. Capable of making style changes and even conte
 
 * How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
 
-The wordpress selectors appear to all reference "wp" in their name somewhere. The divs, the classes all named with wp in them. But because I created my page, I named my divs and classes shorter and more perosnal names.
+The wordpress selectors appear to all reference "wp" in their name somewhere. The divs, the classes all named with wp in them. But because I created my page, I named my divs and classes shorter and more personal names.
 
 * Did you find Chrome Web Tools fun, helpful, or a pain to work with?
 
-Chrome Dev Tools is very helpful. I wasn't previously aware how to use the Network panel. It seems to be a Swiss Army Knofe of sorts, that I only know how to use 3/10 of. Eager to learn more tutorials on Dev Tools.
+Chrome Dev Tools is very helpful. I wasn't previously aware how to use the Network panel. It seems to be a Swiss Army Knife of sorts, that I only know how to use 3/10 of. Eager to learn more tutorials on Dev Tools.
 
 * Did you have an "aha" moments or were any concepts solidified?
 
