@@ -1,1 +1,65 @@
-/* include your css here */
+    body{
+      width:100%;
+    }
+    #header {
+      background-color:#2d4057;
+      line-height:10px;
+    }
+    h1{
+      font-family:Arial;
+      color:#fff;
+      padding-top:50px;
+      text-align:center;
+      line-height:25px;
+    }
+    h2{
+      margin-top:0px;
+      margin-bottom:-22px;
+      font-family:Arial;
+    }
+    nav{
+        text-decoration:none;
+        color:white;
+        background-color:#5f6d79;
+    }
+    nav li{
+      display:inline;
+      margin-left:18%;
+      line-height:30px;
+    }
+    #img{
+     text-align:center;
+    }
+    nav li a{
+      color:#1b222d;
+      text-decoration:none;
+    }
+        nav li a:hover{
+      color:white;
+    }
+    p {
+      font-family:Arial;
+    }
+    p.par{
+    font-size:14px;
+    } 
+    .opener{
+      font-style:italic;
+      font-weight:bold;
+    }
+    #overview p {
+    font-family:Arial;
+    }
+    #overview ul li a{
+      color:#2d4057;
+    font-family:Arial;
+    font-size:14px;
+    }
+    #footer{
+      line-height:25px;
+      background-color:#2d4057;
+      color:white;
+      font-family:Arial;
+      text-align:center;
+    }
+    
